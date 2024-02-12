@@ -1,1 +1,2 @@
-# CES27
+# CES-27 - Processamento Distribuído
+Laboratorio
